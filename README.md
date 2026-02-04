@@ -144,8 +144,7 @@ php artisan serve
 ## 示例图片
 
 
-<img src="http://www.kwan.com.cn/goods-ocr-inventory.png" width="500px" style="max-width: 100%;">
-
+<img src="docs/images/demo.png" width="800px" />
 
 ---
 
