@@ -93,7 +93,7 @@ resources/views/detect/
 ├── form.blade.php
 └── result.blade.php
 sql/
-└── init_skus.sql
+└── inventory.sql
 ```
 
 ---
@@ -144,8 +144,7 @@ php artisan serve
 ## 示例图片
 
 ```
-docs/images/demo.png
-docs/images/result.png
+<img src="/blingkwan/goods-ocr-inventory/docs/images/demo.png" width="500px" style="max-width: 100%;">
 ```
 
 ---
